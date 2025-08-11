@@ -1,0 +1,3 @@
+tournament,total_matches,total_goals,avg_goals_per_match,total_yellow_cards,total_red_cards,total_cards,avg_cards_per_match,avg_match_time_minutes,total_attendance,avg_attendance,matches_with_extra_time,longest_match_minutes,shortest_match_minutes
+WAFCON 2024,26,60,2.31,70,1,71,2.73,96.4,705000,27115.0,0,100,94
+UEFA Euro 2025,32,105,3.28,80,1,81,2.53,97.6,834000,26062.0,1,122,94

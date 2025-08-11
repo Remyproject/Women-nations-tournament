@@ -1,0 +1,59 @@
+match_id,tournament,date,stage,home_team,away_team,total_goals,yellow_cards,red_cards,total_cards,cards_per_goal,high_card_match,red_card_match
+WAFCON_2024_01,WAFCON 2024,2025-07-05,Group A,Morocco,Zambia,3,3,0,3,1.0,No,No
+WAFCON_2024_02,WAFCON 2024,2025-07-05,Group A,Senegal,DR Congo,4,0,0,0,0.0,No,No
+WAFCON_2024_03,WAFCON 2024,2025-07-09,Group A,Morocco,Senegal,1,2,0,2,2.0,No,No
+WAFCON_2024_04,WAFCON 2024,2025-07-09,Group A,Zambia,DR Congo,4,0,0,0,0.0,No,No
+WAFCON_2024_05,WAFCON 2024,2025-07-13,Group A,Morocco,DR Congo,4,1,0,1,0.25,No,No
+WAFCON_2024_06,WAFCON 2024,2025-07-13,Group A,Zambia,Senegal,1,1,0,1,1.0,No,No
+WAFCON_2024_07,WAFCON 2024,2025-07-06,Group B,Nigeria,Tunisia,3,4,0,4,1.33,Yes,No
+WAFCON_2024_08,WAFCON 2024,2025-07-06,Group B,Algeria,Botswana,1,2,0,2,2.0,No,No
+WAFCON_2024_09,WAFCON 2024,2025-07-10,Group B,Nigeria,Botswana,1,4,0,4,4.0,Yes,No
+WAFCON_2024_10,WAFCON 2024,2025-07-10,Group B,Algeria,Tunisia,0,3,0,3,3.0,No,No
+WAFCON_2024_11,WAFCON 2024,2025-07-14,Group B,Nigeria,Algeria,0,3,0,3,3.0,No,No
+WAFCON_2024_12,WAFCON 2024,2025-07-14,Group B,Tunisia,Botswana,3,4,0,4,1.33,Yes,No
+WAFCON_2024_13,WAFCON 2024,2025-07-07,Group C,South Africa,Ghana,3,3,0,3,1.0,No,No
+WAFCON_2024_14,WAFCON 2024,2025-07-07,Group C,Mali,Tanzania,1,1,0,1,1.0,No,No
+WAFCON_2024_15,WAFCON 2024,2025-07-11,Group C,South Africa,Mali,4,3,0,3,0.75,No,No
+WAFCON_2024_16,WAFCON 2024,2025-07-11,Group C,Ghana,Tanzania,2,3,0,3,1.5,No,No
+WAFCON_2024_17,WAFCON 2024,2025-07-15,Group C,South Africa,Tanzania,3,4,0,4,1.33,Yes,No
+WAFCON_2024_18,WAFCON 2024,2025-07-15,Group C,Ghana,Mali,2,1,0,1,0.5,No,No
+WAFCON_2024_19,WAFCON 2024,2025-07-19,Quarter-final,Nigeria,Zambia,1,4,0,4,4.0,Yes,No
+WAFCON_2024_20,WAFCON 2024,2025-07-19,Quarter-final,Morocco,Mali,3,2,0,2,0.67,No,No
+WAFCON_2024_21,WAFCON 2024,2025-07-20,Quarter-final,Ghana,Algeria,2,5,0,5,2.5,Yes,No
+WAFCON_2024_22,WAFCON 2024,2025-07-20,Quarter-final,South Africa,Senegal,3,4,0,4,1.33,Yes,No
+WAFCON_2024_23,WAFCON 2024,2025-07-23,Semi-final,Nigeria,South Africa,1,6,0,6,6.0,Yes,No
+WAFCON_2024_24,WAFCON 2024,2025-07-23,Semi-final,Morocco,Ghana,3,3,0,3,1.0,No,No
+WAFCON_2024_25,WAFCON 2024,2025-07-25,3rd Place,Ghana,South Africa,2,1,0,1,0.5,No,No
+WAFCON_2024_26,WAFCON 2024,2025-07-26,Final,Nigeria,Morocco,5,3,1,4,0.8,Yes,Yes
+EURO_2025_01,UEFA Euro 2025,2025-07-02,Group A,Switzerland,Norway,1,1,0,1,1.0,No,No
+EURO_2025_02,UEFA Euro 2025,2025-07-02,Group A,Iceland,Finland,2,2,0,2,1.0,No,No
+EURO_2025_03,UEFA Euro 2025,2025-07-06,Group A,Switzerland,Iceland,2,1,0,1,0.5,No,No
+EURO_2025_04,UEFA Euro 2025,2025-07-06,Group A,Norway,Finland,5,3,0,3,0.6,No,No
+EURO_2025_05,UEFA Euro 2025,2025-07-10,Group A,Switzerland,Finland,3,4,0,4,1.33,Yes,No
+EURO_2025_06,UEFA Euro 2025,2025-07-10,Group A,Norway,Iceland,7,0,0,0,0.0,No,No
+EURO_2025_07,UEFA Euro 2025,2025-07-03,Group B,Spain,Portugal,5,2,0,2,0.4,No,No
+EURO_2025_08,UEFA Euro 2025,2025-07-03,Group B,Belgium,Italy,2,1,0,1,0.5,No,No
+EURO_2025_09,UEFA Euro 2025,2025-07-07,Group B,Spain,Belgium,8,1,0,1,0.12,No,No
+EURO_2025_10,UEFA Euro 2025,2025-07-07,Group B,Portugal,Italy,2,2,0,2,1.0,No,No
+EURO_2025_11,UEFA Euro 2025,2025-07-11,Group B,Spain,Italy,4,0,0,0,0.0,No,No
+EURO_2025_12,UEFA Euro 2025,2025-07-11,Group B,Portugal,Belgium,2,2,0,2,1.0,No,No
+EURO_2025_13,UEFA Euro 2025,2025-07-04,Group C,Germany,Poland,5,3,0,3,0.6,No,No
+EURO_2025_14,UEFA Euro 2025,2025-07-04,Group C,Denmark,Sweden,6,2,0,2,0.33,No,No
+EURO_2025_15,UEFA Euro 2025,2025-07-08,Group C,Germany,Denmark,4,1,0,1,0.25,No,No
+EURO_2025_16,UEFA Euro 2025,2025-07-08,Group C,Poland,Sweden,3,3,0,3,1.0,No,No
+EURO_2025_17,UEFA Euro 2025,2025-07-12,Group C,Germany,Sweden,5,1,0,1,0.2,No,No
+EURO_2025_18,UEFA Euro 2025,2025-07-12,Group C,Poland,Denmark,5,3,0,3,0.6,No,No
+EURO_2025_19,UEFA Euro 2025,2025-07-05,Group D,France,England,3,4,0,4,1.33,Yes,No
+EURO_2025_20,UEFA Euro 2025,2025-07-05,Group D,Wales,Netherlands,2,4,0,4,2.0,Yes,No
+EURO_2025_21,UEFA Euro 2025,2025-07-09,Group D,France,Wales,3,3,0,3,1.0,No,No
+EURO_2025_22,UEFA Euro 2025,2025-07-09,Group D,England,Netherlands,2,2,0,2,1.0,No,No
+EURO_2025_23,UEFA Euro 2025,2025-07-13,Group D,France,Netherlands,1,2,0,2,2.0,No,No
+EURO_2025_24,UEFA Euro 2025,2025-07-13,Group D,England,Wales,2,3,0,3,1.5,No,No
+EURO_2025_25,UEFA Euro 2025,2025-07-19,Quarter-final,England,Sweden,4,3,0,3,0.75,No,No
+EURO_2025_26,UEFA Euro 2025,2025-07-19,Quarter-final,Spain,Germany,4,5,0,5,1.25,Yes,No
+EURO_2025_27,UEFA Euro 2025,2025-07-20,Quarter-final,Netherlands,Italy,2,2,0,2,1.0,No,No
+EURO_2025_28,UEFA Euro 2025,2025-07-20,Quarter-final,France,Belgium,1,5,0,5,5.0,Yes,No
+EURO_2025_29,UEFA Euro 2025,2025-07-24,Semi-final,England,Netherlands,4,5,0,5,1.25,Yes,No
+EURO_2025_30,UEFA Euro 2025,2025-07-24,Semi-final,Spain,France,2,2,0,2,1.0,No,No
+EURO_2025_31,UEFA Euro 2025,2025-07-26,3rd Place,Netherlands,France,1,3,0,3,3.0,No,No
+EURO_2025_32,UEFA Euro 2025,2025-07-27,Final,England,Spain,3,5,1,6,2.0,Yes,Yes
